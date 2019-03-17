@@ -1,0 +1,190 @@
+source,target,value,status
+Amur Leopard,Habitat Loss,1,Critically Endangered
+Amur Leopard,Illegal Wildlife Trade,1,Critically Endangered
+Bornean Orangutan,Illegal Wildlife Trade,1,Critically Endangered
+Bornean Orangutan,Conflict With Humans,1,Critically Endangered
+Cross River Gorilla,Genetic Loss,1,Critically Endangered
+Cross River Gorilla,Hunting Or Over-Fishing,1,Critically Endangered
+Black Rhino,Illegal Wildlife Trade,1,Critically Endangered
+Black Rhino,Habitat Loss,1,Critically Endangered
+Eastern Lowland Gorilla,Habitat Loss,1,Critically Endangered
+Eastern Lowland Gorilla,Hunting Or Over-Fishing,1,Critically Endangered
+Eastern Lowland Gorilla,Civil Unrest,1,Critically Endangered
+Hawksbill Turtle,Fisheries Bycatch,1,Critically Endangered
+Hawksbill Turtle,Illegal Wildlife Trade,1,Critically Endangered
+Javan Rhino,Illegal Wildlife Trade,1,Critically Endangered
+Javan Rhino,Genetic Loss,1,Critically Endangered
+Javan Rhino,Natural Disasters,1,Critically Endangered
+Javan Rhino,Invasive Species,1,Critically Endangered
+Javan Rhino,Disease,1,Critically Endangered
+Leatherback Turtle,Illegal Wildlife Trade,1,Critically Endangered
+Leatherback Turtle,Hunting Or Over-Fishing,1,Critically Endangered
+Leatherback Turtle,Habitat Loss,1,Critically Endangered
+Leatherback Turtle,Fisheries Bycatch,1,Critically Endangered
+Mountain Gorilla,Civil Unrest,1,Critically Endangered
+Mountain Gorilla,Habitat Loss,1,Critically Endangered
+Mountain Gorilla,Disease,1,Critically Endangered
+Mountain Gorilla,Illegal Wildlife Trade,1,Critically Endangered
+Orangutan,Habitat Loss,1,Critically Endangered
+Orangutan,Hunting Or Over-Fishing,1,Critically Endangered
+Orangutan,Illegal Wildlife Trade,1,Critically Endangered
+Pangolin,Illegal Wildlife Trade,1,Critically Endangered
+Saola,Hunting Or Over-Fishing,1,Critically Endangered
+Saola,Habitat Loss,1,Critically Endangered
+South China Tiger,Hunting Or Over-Fishing,1,Critically Endangered
+South China Tiger,Habitat Loss,1,Critically Endangered
+Sumatran Elephant,Illegal Wildlife Trade,1,Critically Endangered
+Sumatran Elephant,Habitat Loss,1,Critically Endangered
+Sumatran Orangutan,Hunting Or Over-Fishing,1,Critically Endangered
+Sumatran Orangutan,Habitat Loss,1,Critically Endangered
+Sumatran Orangutan,Illegal Wildlife Trade,1,Critically Endangered
+Sumatran Rhino,Habitat Loss,1,Critically Endangered
+Sumatran Rhino,Illegal Wildlife Trade,1,Critically Endangered
+Sumatran Rhino,Genetic Loss,1,Critically Endangered
+Sumatran Tiger,Habitat Loss,1,Critically Endangered
+Sumatran Tiger,Illegal Wildlife Trade,1,Critically Endangered
+Sumatran Tiger,Conflict With Humans,1,Critically Endangered
+Vaquita,Fisheries Bycatch,1,Critically Endangered
+Western Lowland Gorilla,Illegal Wildlife Trade,1,Critically Endangered
+Western Lowland Gorilla,Disease,1,Critically Endangered
+African Wild Dog,Conflict With Humans,1,Critically Endangered
+African Wild Dog,Habitat Loss,1,Critically Endangered
+Amur Tiger,Habitat Loss,1,Endangered
+Amur Tiger,Illegal Wildlife Trade,1,Endangered
+Asian Elephant,Habitat Loss,1,Endangered
+Asian Elephant,Illegal Wildlife Trade,1,Endangered
+Asian Elephant,Genetic Loss,1,Endangered
+Asian Elephant,Domestication,1,Endangered
+Bengal Tiger,Habitat Loss,1,Endangered
+Bengal Tiger,Illegal Wildlife Trade,1,Endangered
+Bengal Tiger,Conflict With Humans,1,Endangered
+Bengal Tiger,Prey Loss,1,Endangered
+Black-footed Ferret,Habitat Loss,1,Endangered
+Black-footed Ferret,Disease,1,Endangered
+Blue Whale,Habitat Loss,1,Endangered
+Blue Whale,Prey Loss,1,Endangered
+Blue Whale,Fisheries Bycatch,1,Endangered
+Bluefin Tuna,Hunting Or Over-Fishing,1,Endangered
+Bonobo,Civil Unrest,1,Endangered
+Bonobo,Illegal Wildlife Trade,1,Endangered
+Borneo Pygmy Elephant,Habitat Loss,1,Endangered
+Borneo Pygmy Elephant,Conflict With Humans,1,Endangered
+Chimpanzee,Disease,1,Endangered
+Chimpanzee,Illegal Wildlife Trade,1,Endangered
+Fin Whale,Hunting Or Over-Fishing,1,Endangered
+Fin Whale,Habitat Loss,1,Endangered
+Fin Whale,Climate Change,1,Endangered
+Galapagos Penguin,Climate Change,1,Endangered
+Galapagos Penguin,Fisheries Bycatch,1,Endangered
+Galapagos Penguin,Prey Loss,1,Endangered
+Galapagos Penguin,Pollution,1,Endangered
+Galapagos Penguin,Disease,1,Endangered
+Ganges River Dolphin,Habitat Loss,1,Endangered
+Ganges River Dolphin,Pollution,1,Endangered
+Ganges River Dolphin,Fisheries Bycatch,1,Endangered
+Green Turtle,Illegal Wildlife Trade,1,Endangered
+Green Turtle,Fisheries Bycatch,1,Endangered
+Green Turtle,Habitat Loss,1,Endangered
+Hectors Dolphin,Habitat Loss,1,Endangered
+Hectors Dolphin,Fisheries Bycatch,1,Endangered
+Hectors Dolphin,Pollution,1,Endangered
+Humphead Wrasse,Hunting Or Over-Fishing,1,Endangered
+Indian Elephant,Conflict With Humans,1,Endangered
+Indian Elephant,Illegal Wildlife Trade,1,Endangered
+Indochinese Tiger,Habitat Loss,1,Endangered
+Indochinese Tiger,Illegal Wildlife Trade,1,Endangered
+Indus River Dolphin,Habitat Loss,1,Endangered
+Indus River Dolphin,Hunting Or Over-Fishing,1,Endangered
+Indus River Dolphin,Fisheries Bycatch,1,Endangered
+Indus River Dolphin,Pollution,1,Endangered
+Malayan Tiger,Illegal Wildlife Trade,1,Endangered
+Malayan Tiger,Habitat Loss,1,Endangered
+North Atlantic Right Whale,Climate Change,1,Endangered
+North Atlantic Right Whale,Fisheries Bycatch,1,Endangered
+North Atlantic Right Whale,Pollution,1,Endangered
+Red Panda,Illegal Wildlife Trade,1,Endangered
+Sea Lions,Invasive Species,1,Endangered
+Sea Lions,Disease,1,Endangered
+Sea Lions,Climate Change,1,Endangered
+Sea Lions,Fisheries Bycatch,1,Endangered
+Sea Lions,Prey Loss,1,Endangered
+Sei Whale,Hunting Or Over-Fishing,1,Endangered
+Sei Whale,Pollution,1,Endangered
+Sei Whale,Climate Change,1,Endangered
+Sei Whale,Fisheries Bycatch,1,Endangered
+Snow Leopard,Climate Change,1,Endangered
+Snow Leopard,Conflict With Humans,1,Endangered
+Snow Leopard,Habitat Loss,1,Endangered
+Sri Lankan Elephant,Habitat Loss,1,Endangered
+Sri Lankan Elephant,Conflict With Humans,1,Endangered
+Tiger,Illegal Wildlife Trade,1,Endangered
+Tiger,Conflict With Humans,1,Endangered
+Tiger,Habitat Loss,1,Endangered
+Tiger,Climate Change,1,Endangered
+Gray Whale,Pollution,1,Endangered
+Gray Whale,Hunting Or Over-Fishing,1,Endangered
+Gray Whale,Climate Change,1,Endangered
+African Elephant,Illegal Wildlife Trade,1,Vulnerable
+African Elephant,Habitat Loss,1,Vulnerable
+African Elephant,Conflict With Humans,1,Vulnerable
+Bigeye Tuna,Hunting Or Over-Fishing,1,Vulnerable
+Bigeye Tuna,Fisheries Bycatch,1,Vulnerable
+Black Spider Monkey,Habitat Loss,1,Vulnerable
+Black Spider Monkey,Hunting Or Over-Fishing,1,Vulnerable
+Dugong,Habitat Loss,1,Vulnerable
+Dugong,Pollution,1,Vulnerable
+Dugong,Fisheries Bycatch,1,Vulnerable
+Forest Elephant,Illegal Wildlife Trade,1,Vulnerable
+Forest Elephant,Hunting Or Over-Fishing,1,Vulnerable
+Forest Elephant,Habitat Loss,1,Vulnerable
+Forest Elephant,Conflict With Humans,1,Vulnerable
+Giant Panda,Hunting Or Over-Fishing,1,Vulnerable
+Giant Panda,Habitat Loss,1,Vulnerable
+Giant Tortoise,Invasive Species,1,Vulnerable
+Great White Shark,Hunting Or Over-Fishing,1,Vulnerable
+Great White Shark,Fisheries Bycatch,1,Vulnerable
+Greater One-Horned Rhino,Illegal Wildlife Trade,1,Vulnerable
+Greater One-Horned Rhino,Hunting Or Over-Fishing,1,Vulnerable
+Greater One-Horned Rhino,Habitat Loss,1,Vulnerable
+Irrawaddy Dolphin,Fisheries Bycatch,1,Vulnerable
+Loggerhead Turtle,Fisheries Bycatch,1,Vulnerable
+Marine Iguana,Climate Change,1,Vulnerable
+Marine Iguana,Invasive Species,1,Vulnerable
+Olive Ridley Turtle,Climate Change,1,Vulnerable
+Southern rockhopper penguin,Climate Change,1,Vulnerable
+Whale Shark,Hunting Or Over-Fishing,1,Vulnerable
+Whale Shark,Fisheries Bycatch,1,Vulnerable
+Albacore Tuna,Hunting Or Over-Fishing,1,Near Threatened
+Beluga,Climate Change,1,Near Threatened
+Beluga,Pollution,1,Near Threatened
+Beluga,Habitat Loss,1,Near Threatened
+Greater Sage-Grouse,Pollution,1,Near Threatened
+Greater Sage-Grouse,Habitat Loss,1,Near Threatened
+Jaguar,Habitat Loss,1,Near Threatened
+Jaguar,Hunting Or Over-Fishing,1,Near Threatened
+Monarch Butterfly,Habitat Loss,1,Near Threatened
+Monarch Butterfly,Climate Change,1,Near Threatened
+Mountain Plover,Habitat Loss,1,Near Threatened
+Narwhal,Climate Change,1,Near Threatened
+Narwhal,Habitat Loss,1,Near Threatened
+Narwhal,Pollution,1,Near Threatened
+Plains Bison,Habitat Loss,1,Near Threatened
+Plains Bison,Genetic Loss,1,Near Threatened
+White Rhino,Habitat Loss,1,Near Threatened
+White Rhino,Illegal Wildlife Trade,1,Near Threatened
+Yellowfin Tuna,Fisheries Bycatch,1,Near Threatened
+Yellowfin Tuna,Hunting Or Over-Fishing,1,Near Threatened
+Arctic Fox,Climate Change,1,Least Concern
+Arctic Fox,Hunting Or Over-Fishing,1,Least Concern
+Bowhead Whale,Hunting Or Over-Fishing,1,Least Concern
+Bowhead Whale,Habitat Loss,1,Least Concern
+Bowhead Whale,Climate Change,1,Least Concern
+Brown Bear,Hunting Or Over-Fishing,1,Least Concern
+Brown Bear,Habitat Loss,1,Least Concern
+Common Bottlenose Dolphin,Fisheries Bycatch,1,Least Concern
+Common Bottlenose Dolphin,Habitat Loss,1,Least Concern
+Common Bottlenose Dolphin,Climate Change,1,Least Concern
+Macaw,Illegal Wildlife Trade,1,Least Concern
+Tree Kangaroo,Hunting Or Over-Fishing,1,Least Concern
+Amazon River Dolphin,Conflict With Humans,1,Least Concern
+Amazon River Dolphin,Pollution,1,Least Concern

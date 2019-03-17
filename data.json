@@ -1,0 +1,379 @@
+﻿{
+   "name": "Risk Categories",
+   "children":[
+      {
+   "name":"Critically Endangered",
+   "children": [
+      { "name": "Amur Leopard",
+         "Value": 60
+      },
+      {
+         "name": "Black Rhino",
+         "Value": 60
+      },
+      {
+         "name": "Bornean Orangutan",
+         "Value": 60
+      },
+      {
+         "name": "Cross River Gorilla",
+         "Value": 60
+      },
+      {
+         "name": "Eastern Lowland Gorilla",
+         "Value": 60
+      },
+      {
+         "name": "Hawksbill Turtle",
+         "Value": 60
+      },
+      {
+         "name": "Javan Rhino",
+         "Value": 60
+      },
+      {
+         "name": "Leatherback Turtle",
+         "Value": 60
+      },
+      {
+         "name": "Mountain Gorilla",
+         "Value": 60
+      },
+      {
+         "name": "Orangutan",
+         "Value": 60
+      },
+      {
+         "name": "Pangolin",
+         "Value": 60
+      },
+      {
+         "name": "Saola",
+         "Value": 60
+      },
+      {
+         "name": "South China Tiger",
+         "Value": 60
+      },
+      {
+         "name": "Sumatran Elephant",
+         "Value": 60
+      },
+      {
+         "name": "Sumatran Orangutan",
+         "Value": 60
+      },
+      {
+         "name": "Sumatran Rhino",
+         "Value": 60
+      },
+      {
+         "name": "Sumatran Tiger",
+         "Value": 60
+      },
+      {
+         "name": "Vaquita",
+         "Value": 60
+      },
+      {
+         "name": "Western Lowland Gorilla",
+         "Value": 60
+      }
+   ]
+   },
+   {
+   "name":"Endangered",
+   "children":  [
+      {
+         "Value": 60,
+         "name": "Amur Tiger"
+      },
+      {
+         "Value": 60,
+         "name": "Asian Elephant"
+      },
+      {
+         "Value": 60,
+         "name": "Bengal Tiger"
+      },
+      {
+         "Value": 60,
+         "name": "Black-footed Ferret"
+      },
+      {
+         "Value": 60,
+         "name": "Blue Whale"
+      },
+      {
+         "Value": 60,
+         "name": "Bluefin Tuna"
+      },
+      {
+         "Value": 60,
+         "name": "Bonobo"
+      },
+      {
+         "Value": 60,
+         "name": "Borneo Pygmy Elephant"
+      },
+      {
+         "Value": 60,
+         "name": "Chimpanzee"
+      },
+      {
+         "Value": 60,
+         "name": "Fin Whale"
+      },
+      {
+         "Value": 60,
+         "name": "Galápagos Penguin"
+      },
+      {
+         "Value": 60,
+         "name": "Ganges River Dolphin"
+      },
+      {
+         "Value": 60,
+         "name": "Green Turtle"
+      },
+      {
+         "Value": 60,
+         "name": "Hectors Dolphin"
+      },
+      {
+         "Value": 60,
+         "name": "Humphead Wrasse"
+      },
+      {
+         "Value": 60,
+         "name": "Indian Elephant"
+      },
+      {
+         "Value": 60,
+         "name": "Indochinese Tiger"
+      },
+      {
+         "Value": 60,
+         "name": "Indus River Dolphin"
+      },
+      {
+         "Value": 60,
+         "name": "Malayan Tiger"
+      },
+      {
+         "Value": 60,
+         "name": "North Atlantic Right Whale"
+      },
+      {
+         "Value": 60,
+         "name": "Red Panda"
+      },
+      {
+         "Value": 60,
+         "name": "Sea Lions"
+      },
+      {
+         "Value": 60,
+         "name": "Sei Whale"
+      },
+      {
+         "Value": 60,
+         "name": "Snow Leopard"
+      },
+      {
+         "Value": 60,
+         "name": "Sri Lankan Elephant"
+      },
+      {
+         "Value": 60,
+         "name": "Tiger"
+      },
+      {
+         "Value": 60,
+         "name": "Gray Whale"
+      }
+   ]
+},
+{
+   "name":"Vulnerable",
+   "children":  [
+      {
+         "name": "African Elephant",
+         "Value": 60
+      },
+      {
+         "name": "Bigeye Tuna",
+         "Value": 60
+      },
+      {
+         "name": "Black Spider Monkey",
+         "Value": 60
+      },
+      {
+         "name": "Dugong",
+         "Value": 60
+      },
+      {
+         "name": "Forest Elephant",
+         "Value": 60
+      },
+      {
+         "name": "Giant Panda",
+         "Value": 60
+      },
+      {
+         "name": "Giant Tortoise",
+         "Value": 60
+      },
+      {
+         "name": "Great White Shark",
+         "Value": 60
+      },
+      {
+         "name": "Greater One-Horned Rhino",
+         "Value": 60
+      },
+      {
+         "name": "Hippopotamus",
+         "Value": 60
+      },
+      {
+         "name": "Irrawaddy Dolphin",
+         "Value": 60
+      },
+      {
+         "name": "Loggerhead Turtle",
+         "Value": 60
+      },
+      {
+         "name": "Marine Iguana",
+         "Value": 60
+      },
+      {
+         "name": "Olive Ridley Turtle",
+         "Value": 60
+      },
+      {
+         "name": "Polar Bear",
+         "Value": 60
+      },
+      {
+         "name": "Savanna Elephant",
+         "Value": 60
+      },
+      {
+         "name": "Sea Turtle",
+         "Value": 60
+      },
+      {
+         "name": "Southern rockhopper penguin",
+         "Value": 60
+      },
+      {
+         "name": "Whale Shark",
+         "Value": 60
+      },
+      {
+         "name": "Yangtze Finless Porpoise",
+         "Value": 60
+      }
+   ]
+},
+{
+   "name":"Near Threatened",
+   "children": [
+      {
+         "name": "Albacore Tuna",
+         "Value": 60
+      },
+      {
+         "name": "Beluga",
+         "Value": 60
+      },
+      {
+         "name": "Greater Sage-Grouse",
+         "Value": 60
+      },
+      {
+         "name": "Jaguar",
+         "Value": 60
+      },
+      {
+         "name": "Monarch Butterfly",
+         "Value": 60
+      },
+      {
+         "name": "Mountain Plover",
+         "Value": 60
+      },
+      {
+         "name": "Narwhal",
+         "Value": 60
+      },
+      {
+         "name": "Plains Bison",
+         "Value": 60
+      },
+      {
+         "name": "White Rhino",
+         "Value": 60
+      },
+      {
+         "name": "Yellowfin Tuna",
+         "Value": 60
+      }
+   ]
+},
+{
+   "name":"Least Concern",
+   "children": [
+      {
+         "name": "Arctic Fox",
+         "Value": 60
+      },
+      {
+         "name": "Arctic Wolf",
+         "Value": 60
+      },
+      {
+         "name": "Bowhead Whale",
+         "Value": 60
+      },
+      {
+         "name": "Brown Bear",
+         "Value": 60
+      },
+      {
+         "name": "Common Bottlenose Dolphin",
+         "Value": 60
+      },
+      {
+         "name": "Gray Whale",
+         "Value": 60
+      },
+      {
+         "name": "Macaw",
+         "Value": 60
+      },
+      {
+         "name": "Pronghorn",
+         "Value": 60
+      },
+      {
+         "name": "Skipjack Tuna",
+         "Value": 60
+      },
+      {
+         "name": "Swift Fox",
+         "Value": 60
+      },
+      {
+         "name": "Tree Kangaroo",
+         "Value": 60
+      }
+   ]
+}
+
+]}
+
+

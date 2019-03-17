@@ -1,0 +1,50 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet"  href="interactive.css">
+    <link href='https://fonts.googleapis.com/css?family=Satisfy' rel='stylesheet' type='text/css'>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+</head>
+<body>
+    <script src="https://d3js.org/d3.v4.min.js"  charset='UTF-8'></script>
+    <script src="sankey.js" ></script>
+    <div id='tooltip1' style='opacity:0'></div>
+    <div id='tooltip2' style='opacity:0'></div>
+    <div class='story'>
+    <p>Humans have vastly exploited the environment to sustain their own needs, often forgetting the ecological balance needed to sustain the biodiversity.</p>
+    <p><b><a href="http://www.footprintnetwork.org/documents/2016_Living_Planet_Report_Summary_Lo.pdf" target="blank">Living Report Planet 2016</a></b>, published by WWF, proposes an idea which was first coined in the&nbsp;mid-1970s. It calls for a shift from the Holocene period - the era of Human Civilization to a new geological period called the "Anthropocene".<b> Anthropocene will be described as a period of significant human impact on our climate, forcing rapid changes in the environment</b>. Oceans are becoming acidic and entire biomes from temperate rainforests to coral reefs are disappearing. These magnitudes&nbsp;of impact suggests that there will be a sixth mass extinction on Earth.<b> All the previous five mass extinction took place in a period ranging from a few hundred thousand to millions of years, but Anthropocene will be with the fastest change over a very short period of time. This will be the first time the reason for mass extinction will be the activities of mankind.</b><br>
+    <i style="color:#5a91a6">Hover over the animal bubbles for more information(only on Desktop).</i></p>
+    </div>
+    <svg id='graph1' class="hidden-sm hidden-xs visible-md-block visible-lg-block"></svg>
+    <div class='imgReplace  hidden-lg hidden-md visible-xs-block visible-sm-block' >
+    <img src="tree_.png" >
+    </div>
+    <div class='story'>
+    <p><b>Since 1970, the wildlife population has declined by an average of 58% and is expected to reach around 67% at the end of this decade</b>. WWF's, <b><a href="https://www.worldwildlife.org/species/directory?direction=desc&sort=extinction_status" target="blank">endangered animals list </a></b>categorises animals on a ranger of factors that include range size, population size and threats. This is how they are classified:</p>
+    <ul>
+    <li><b>Critically endangered</b> &ndash; Extremely high risk of extinction in the wild.</li>
+    <li><b>Endangered</b> &ndash; High risk of extinction in the wild.</li>
+    <li><b>Vulnerable</b> &ndash; High risk of endangerment in the wild.</li>
+    <li><b>Near threatened</b> &ndash; Likely to become endangered in the near future.</li>
+    <li><b>Least concern</b> &ndash; Lowest risk. Does not qualify for a more at-risk category. Widespread and abundant taxa are included in this category.</li>
+    </ul>
+    <i style="color:#5a91a6" >Click on the buttons to evaluate threat by category and hover over the blocks to visualise the threat.</i>
+
+    </div>
+    <div class='buttonGroup'>
+        <button class="myButton button1">Critically Endangered</button>
+        <button class="myButton button2">Endangered</button>
+        <button class="myButton button3">Vulnerable</button>
+        <button class="myButton button4">Near Threatened</button>
+        <button class="myButton button5">Least Concern</button>
+    </div>
+    <svg id='graph2'></svg>
+    <script src="/interactive.js"></script>
+</body>
+</html>
